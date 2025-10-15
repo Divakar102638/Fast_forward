@@ -1,0 +1,14 @@
+a=10
+b=20
+a=int(input("enter first number"))
+b=int(input("enter second numder"))
+c=a+b
+print("the sum of ",a," and ",b," is :",c)
+c=a*b
+print("the multiple of ",a," and ",b," is :",c)
+c=a-b
+print("the subraction of ",a," and ",b," is : ",c)
+c=a%b
+print("the division of " ,a," and ",b," is :",c)
+c=a**b
+print("the power of ",a," and ",b," is : ",c)
